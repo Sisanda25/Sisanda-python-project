@@ -8,6 +8,7 @@ To run this project, you need to have Python installed along with the following 
 -numpy
 -seaborn
 -matplotlib
+You can run by typing data.py in vs code or pycharm.
 You can install this extensions on VS code using pip.
 
 #Analysis
