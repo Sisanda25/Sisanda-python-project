@@ -71,12 +71,3 @@ if 'variable1' in data.columns and 'variable2' in data.columns:  # Replace with 
     plt.ylabel('variable2')
     plt.show()
 
-# # Presentation and Documentation
-# # Document findings
-# print("Insights:")
-# print(f"- The dataset contains {data.shape[0]} rows and {data.shape[1]} columns after cleaning.")
-# print("- The distribution of numerical variables shows that...")  # Replace with insights
-# print("- The correlation matrix indicates that...")  # Replace with insights
-
-# # Save the cleaned data if necessary
-# data.to_csv('./cleaned_data.csv', index=False
